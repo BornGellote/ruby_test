@@ -1,0 +1,2 @@
+names = ["bob", "james", "007"]
+names.each { |name| puts name }
